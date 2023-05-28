@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 There is a Bug in this file and I resolved it.
+=======
+There is a Bug in the file and I resolved it.
+>>>>>>> Bug4
